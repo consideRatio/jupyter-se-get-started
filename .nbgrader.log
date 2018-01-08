@@ -1,0 +1,42 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/jupyter-se-get-started
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5ff866d38e95af7fbd8aa27e05db56d3f56d1c2e25c612e3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=5ff866d38e95af7fbd8aa27e05db56d3f56d1c2e25c612e3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 4c63355a-01b7-4357-b345-c0abc03638a7
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108015950 (127.0.0.1) 5.35ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4c63355a-01b7-4357-b345-c0abc03638a7
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 4c63355a-01b7-4357-b345-c0abc03638a7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/jupyter-se-get-started
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=bfa4d42529658935f8b3e3578c8392827ca2e912f4c92ab5
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=bfa4d42529658935f8b3e3578c8392827ca2e912f4c92ab5
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Kernel started: e330b09b-259a-4a5b-878c-edf4a8c73af1
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108020129 (127.0.0.1) 7.29ms referer=http://localhost:8888/notebooks/Click%20on%20me.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e330b09b-259a-4a5b-878c-edf4a8c73af1
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e330b09b-259a-4a5b-878c-edf4a8c73af1
