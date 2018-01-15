@@ -4,4 +4,5 @@ Make a pull request to https://github.com/consideRatio/jupyter-se-getting-starte
 # Those who made it
 Grunditz, Jakob
 Jansson, Marcus
+Karlsson, Erik
 Sundqvist, Carl
